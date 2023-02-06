@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C
 - 📫 Reach me at [twitter](https://twitter.com/Rishabh67028861) or matrix - @rj69420:matrix.org or on discord - Rishabh69#6396
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh672003&show_icons=true&theme=radical)
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh672003&show_icons=true&theme=tokyonight)
 
 <!---
 Rishabh672003/Rishabh672003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
