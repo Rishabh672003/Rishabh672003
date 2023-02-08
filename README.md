@@ -8,6 +8,18 @@ Rishabh672003/Rishabh672003 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+---
+
+<h3 align="center"> Languages, Tools and Stats </h3>
+<p align="center"> 
+	<img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" width="30"/>
+	<img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30"/>
+	<img src="https://img.icons8.com/ios-filled/50/fa314a/java-coffee-cup-logo--v1.png" width="30"/>
+</p>
+
+
 <span align="center">
 
 <div align="center">
