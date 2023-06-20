@@ -1,6 +1,7 @@
+# Hi 👋, I’m Rishabh
+
 <p align="center">
 	
-- 👋 Hi, I’m Rishabh 
 - 👀 I’m very much interested in Linux and free/libre software   
 - 🌱 I’m currently learning C++ and Rust
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh69#6396 or on twitter - [Twitter](https://twitter.com/Rishabh67028861)
