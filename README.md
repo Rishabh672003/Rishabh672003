@@ -4,7 +4,7 @@
 	
 - 👀 I’m very much interested in Linux and free/libre software   
 - 🌱 I’m currently learning C++ and Rust
-- 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100
+- 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
 
 </p>
 	
