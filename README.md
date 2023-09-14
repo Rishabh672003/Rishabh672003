@@ -32,13 +32,13 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh672003&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishabh's GitHub stats](https://github-readme-stats-rishabh.vercel.app/api?username=Rishabh672003&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh672003&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Rishabh672003&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 </span>
