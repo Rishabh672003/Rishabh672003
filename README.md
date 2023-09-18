@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.icons8.com/ios-filled/50/fa314a/java-coffee-cup-logo--v1.png" width="30"/>
 </p>
 
-
 <span align="center">
 
 <div align="center">
@@ -39,6 +38,12 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Rishabh672003&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d37d9caa497d7fa51b0608?variant=dark)](https://roadmap.sh)
 
 </div>
 </span>
