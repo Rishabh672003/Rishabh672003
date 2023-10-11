@@ -7,11 +7,6 @@
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
 
 </p>
-	
-<!---
-Rishabh672003/Rishabh672003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ---
 
@@ -33,17 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 [![Rishabh's GitHub stats](https://github-readme-stats-rishabh.vercel.app/api?username=Rishabh672003&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
-
 [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Rishabh672003&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
-
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d37d9caa497d7fa51b0608?variant=dark)](https://roadmap.sh)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rishabh672003&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 </span>
