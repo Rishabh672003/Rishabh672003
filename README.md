@@ -30,9 +30,9 @@
 
 [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Rishabh672003&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d37d9caa497d7fa51b0608?variant=dark)](https://roadmap.sh)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rishabh672003&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d37d9caa497d7fa51b0608?variant=dark)](https://roadmap.sh)
 
 </div>
 </span>
