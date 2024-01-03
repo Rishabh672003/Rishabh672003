@@ -26,8 +26,6 @@
 
 <div align="center">
 
-[![An image of @rishabh672003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabh672003)](https://holopin.io/@rishabh672003)
-
 <!-- prettier-ignore-start -->
 | [![Rishabh's GitHub stats](https://github-readme-stats-rishabh.vercel.app/api?username=Rishabh672003&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Rishabh672003&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    |
 |--------------- | --------------- |
@@ -36,7 +34,7 @@
 
 ---
 
-<h3 align="center"> 💻 Projects Status</h2>
+<h3 align="center"> 💻 Projects Status</h3>
 
 </div>
 </span>
@@ -61,3 +59,7 @@
 | [**🔗 Learning ML**](https://github.com/Rishabh672003/Learning-machine-learning) |     Jupyter Notebook, Python     |
 
 </td></tr> </table>
+
+---
+
+[![An image of @rishabh672003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabh672003)](https://holopin.io/@rishabh672003)
