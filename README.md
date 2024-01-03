@@ -55,9 +55,9 @@
 
 </td><td>
 
-| Project List                                                                                   |            Languages             |
-| ---------------------------------------------------------------------------------------------- | :------------------------------: |
-| [**🔗 Programming Notes**](https://github.com/Rishabh672003/Programming-Notes)                 | C++, DSA, JavaScript, TypeScript |
-| [**🔗 Learning Machine Learning**](https://github.com/Rishabh672003/Learning-machine-learning) |     Jupyter Notebook, Python     |
+| Project List                                                                     |            Languages             |
+| -------------------------------------------------------------------------------- | :------------------------------: |
+| [**🔗 Programming Notes**](https://github.com/Rishabh672003/Programming-Notes)   | C++, DSA, JavaScript, TypeScript |
+| [**🔗 Learning ML**](https://github.com/Rishabh672003/Learning-machine-learning) |     Jupyter Notebook, Python     |
 
 </td></tr> </table>
