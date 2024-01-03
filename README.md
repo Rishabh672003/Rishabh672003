@@ -1,9 +1,15 @@
-<h1 align="center"> Hi 👋, I’m Rishabh </h2>
+<center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&random=false&width=434&lines=Hi%2C+There;This+is+Rishabh;I+Love+Programming)](https://git.io/typing-svg)
+
+</center>
 
 <p align="center">
 
 - 👀 I’m very much interested in Linux and free/libre software
+
 - 🌱 I’m currently learning C++ and Machine Learning
+
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
 
 </p>
