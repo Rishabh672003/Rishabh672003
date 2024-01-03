@@ -1,7 +1,7 @@
-# Hi 👋, I’m Rishabh
+<h1 align="center"> Hi 👋, I’m Rishabh </h2>
 
 <p align="center">
-	
+
 - 👀 I’m very much interested in Linux and free/libre software   
 - 🌱 I’m currently learning C++ and Machine Learning
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center"> Languages, Tools and Stats </h3>
+<h2 align="center"> Languages, Tools and Stats </h2>
 <p align="center"> 
 	<img src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png" alt="I use Arch btw" width="30"/>
 	<img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30"/>
