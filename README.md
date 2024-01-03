@@ -1,8 +1,11 @@
-<center>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&random=false&width=434&lines=Hi%2C+There;This+is+Rishabh;I+Love+Programming)](https://git.io/typing-svg)
-
-</center>
+<h1 align="center">
+<a href="https://git.io/typing-svg"
+  ><img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6E96&center=true&vCenter=true&random=false&width=434&lines=Hi%2C+There;This+is+Rishabh;Nice+To+Meet+You!"
+    alt="Typing SVG"
+  />
+</a>
+</h1>
 
 <p align="center">
 
