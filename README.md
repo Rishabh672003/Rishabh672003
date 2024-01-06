@@ -43,7 +43,7 @@
 
 ---
 
-<h3 align="center"> 💻 Projects Status</h3>
+<h3 align="center"> 💻 Projects</h3>
 
 </div>
 </span>
