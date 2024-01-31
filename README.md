@@ -61,13 +61,13 @@
 <tr><th><h4 align="center"> Projects I have contributed/worked on </h4> </th><th><h4 align="center"> I'm currently working on</h4></th></tr>
 <tr><td>
 
-|                                               Project List                                               |        Languages        |
-| :------------------------------------------------------------------------------------------------------: | :---------------------: |
-|                      [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)                       |           Lua           |
-| [**🔗 Stack-Overflow-Label-Predictor**](https://github.com/Rishabh672003/stack-overflow-label-predictor) |         Python          |
-|              [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP)              |           C++           |
-|                    [**🔗 TCET Linux**](https://github.com/tcet-opensource/tcet-linux)                    |       Shellscript       |
-|                     [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                     | HTML, CSS, JS, PhasorJs |
+|                                               Project List                                               |      Languages/Libraries      |
+| :------------------------------------------------------------------------------------------------------: | :---------------------------: |
+|                      [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)                       |              Lua              |
+| [**🔗 Stack-Overflow-Label-Predictor**](https://github.com/Rishabh672003/stack-overflow-label-predictor) | Python, Tensorflow, Streamlit |
+|              [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP)              |              C++              |
+|                    [**🔗 TCET Linux**](https://github.com/tcet-opensource/tcet-linux)                    |          Shellscript          |
+|                     [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                     |    HTML, CSS, JS, PhasorJs    |
 
 </td><td>
 
