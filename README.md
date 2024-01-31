@@ -60,7 +60,7 @@
 
 ---
 
-<h3 align="center"> 💻 Projects</h3>
+<h2 align="center"> 💻 Projects</h3>
 
 </div>
 </span>
