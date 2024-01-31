@@ -74,7 +74,7 @@
 |                      [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)                       |              Lua              |
 | [**🔗 Stack-Overflow-Label-Predictor**](https://github.com/Rishabh672003/stack-overflow-label-predictor) | Python, Tensorflow, Streamlit |
 |              [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP)              |              C++              |
-|                    [**🔗 TCET Linux**](https://github.com/tcet-opensource/tcet-linux)                    |          Shellscript          |
+|                    [**🔗 TCET Linux**](https://github.com/tcet-opensource/tcet-linux)                    |      Based on Arch-Linux      |
 |                     [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                     |    HTML, CSS, JS, PhasorJs    |
 
 </td><td>
