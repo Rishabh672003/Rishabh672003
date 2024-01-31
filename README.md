@@ -25,22 +25,30 @@
     alt="I use Arch btw"
     width="30"
   />
-  <img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30" />
-  <img src="https://img.icons8.com/color/512/c-programming.png" width="30" />
-  <img src="https://img.icons8.com/color/512/lua-language.png" width="30" />
+  <img
+    src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"
+    width="30"
+  />
+  <img
+    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-devops-60.png?raw=true"
+    width="30"
+  />
   <img
     src="https://img.icons8.com/ios-filled/50/4a90e2/python.png"
     width="30"
   />
   <img
-    src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"
-    width="30"
+    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-tensorflow-48.png?raw=true"
+    width="32"
+    height="30"
+  />
+  <img src="https://img.icons8.com/color/512/lua-language.png" width="30" />
+  <img
+    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-docker-48.png?raw=true"
+    width="35"
   />
   <img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30" />
-  <img
-    src="https://img.icons8.com/ios-filled/50/fa314a/java-coffee-cup-logo--v1.png"
-    width="30"
-  />
+  <img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30" />
 </p>
 <span align="center"> <div align="center"></div></span>
 
@@ -79,5 +87,7 @@
 </td></tr> </table>
 
 ---
+
+<h3 align="center">Holopin Badges</h3>
 
 [![An image of @rishabh672003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabh672003)](https://holopin.io/@rishabh672003)
