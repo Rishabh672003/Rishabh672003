@@ -7,10 +7,8 @@
   </a>
 </h1>
 
-<p>
-
+<p></p>
 - 👀 I’m very much interested in Linux and free/libre software
-
 - 🌱 I’m currently learning C++ and Machine Learning
 
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
@@ -62,13 +60,13 @@
 <tr><th><h4 align="center"> Projects I have contributed/worked on </h4> </th><th><h4 align="center"> I'm currently working on</h4></th></tr>
 <tr><td>
 
-|                                  Project List                                  |        Languages        |
-| :----------------------------------------------------------------------------: | :---------------------: |
-|         [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)          |           Lua           |
-| [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP) |           C++           |
-|       [**🔗 TCET Linux**](https://github.com/tcet-opensource/tcet-linux)       |       Shellscript       |
-|        [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)        | HTML, CSS, JS, PhasorJs |
-|        [**🔗 conform.nvim**](https://github.com/stevearc/conform.nvim)         |           Lua           |
+|                                               Project List                                               |        Languages        |
+| :------------------------------------------------------------------------------------------------------: | :---------------------: |
+|                      [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)                       |           Lua           |
+| [**🔗 Stack-Overflow-Label-Predictor**](https://github.com/Rishabh672003/stack-overflow-label-predictor) |         Python          |
+|              [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP)              |           C++           |
+|                    [**🔗 TCET Linux**](https://github.com/tcet-opensource/tcet-linux)                    |       Shellscript       |
+|                     [**🔗 Time-E-Scape**](https://github.com/BitBrigade/Tim-E-Scape)                     | HTML, CSS, JS, PhasorJs |
 
 </td><td>
 
