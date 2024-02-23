@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning C++ and Machine Learning
 
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
-
 <!-- prettier-ignore-end -->
 
 ---
@@ -30,7 +29,11 @@
     width="30"
   />
   <img
-    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-devops-60.png?raw=true"
+    src="./assets/icons8-rust-programming-language.gif"
+    width="35"
+  />
+  <img
+    src="./assets/icons8-devops-60.png"
     width="30"
   />
   <img
@@ -38,13 +41,13 @@
     width="30"
   />
   <img
-    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-tensorflow-48.png?raw=true"
+    src="./assets/icons8-tensorflow-48.png"
     width="32"
     height="30"
   />
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30" />
   <img
-    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-docker-48.png?raw=true"
+    src="./assets/icons8-docker-48.png"
     width="35"
   />
   <img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30" />
