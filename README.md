@@ -13,13 +13,13 @@
 - 🌱 I’m currently learning C++ and Machine Learning
 
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
-
 <!-- prettier-ignore-end -->
 
 ---
 
 <h2 align="center"> Languages, Tools and Stats </h2>
 <p align="center">
+  <!-- credit for all icons go to https://icons8.com/icons-->
   <img
     src="https://img.icons8.com/material-sharp/48/4a90e2/arch-linux.png"
     alt="I use Arch btw"
@@ -29,24 +29,15 @@
     src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"
     width="30"
   />
-  <img
-    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-devops-60.png?raw=true"
-    width="30"
-  />
+  <img src="./assets/icons8-rust-programming-language-48.png" width="33" />
+  <img src="./assets/icons8-devops-60.png" width="30" />
   <img
     src="https://img.icons8.com/ios-filled/50/4a90e2/python.png"
     width="30"
   />
-  <img
-    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-tensorflow-48.png?raw=true"
-    width="32"
-    height="30"
-  />
+  <img src="./assets/icons8-tensorflow-48.png" width="32" height="30" />
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30" />
-  <img
-    src="https://github.com/Rishabh672003/Rishabh672003/blob/main/assets/icons8-docker-48.png?raw=true"
-    width="35"
-  />
+  <img src="./assets/icons8-docker-48.png" width="35" />
   <img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30" />
   <img src="https://img.icons8.com/ios-filled/50/fa314a/git.png" width="30" />
 </p>
