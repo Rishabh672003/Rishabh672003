@@ -64,9 +64,9 @@
 | :------------------------------------------------------------------------------------------------------: | :---------------------------: |
 |                      [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)                       |              Lua              |
 | [**🔗 Stack-Overflow-Label-Predictor**](https://github.com/Rishabh672003/stack-overflow-label-predictor) | Python, Tensorflow, Streamlit |
+|                 [**🔗 Py-Fix-Imports**](https://github.com/Rishabh672003/py-fix-imports)                 |            Python             |
 |                  [**🔗 News Inspector**](https://github.com/BitBrigade/news-inspector)                   |   MERN Stack, Scikit-learn    |
 |              [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP)              |              C++              |
-|                    [**🔗 TCET Linux**](https://github.com/tcet-opensource/tcet-linux)                    |      Based on Arch-Linux      |
 
 </td><td>
 
