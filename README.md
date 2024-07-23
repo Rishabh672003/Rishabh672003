@@ -26,16 +26,16 @@
     width="30"
   />
   <img
-    src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"
-    width="30"
-  />
-  <img src="./assets/icons8-rust-programming-language-48.png" width="33" />
-  <img src="./assets/icons8-devops-60.png" width="30" />
-  <img
     src="https://img.icons8.com/ios-filled/50/4a90e2/python.png"
     width="30"
   />
+  <img src="./assets/icons8-golang-48.png" width="33" />
+  <img
+    src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"
+    width="30"
+  />
   <img src="./assets/icons8-tensorflow-48.png" width="32" height="30" />
+  <img src="./assets/icons8-devops-60.png" width="30" />
   <img src="https://img.icons8.com/color/512/lua-language.png" width="30" />
   <img src="./assets/icons8-docker-48.png" width="35" />
   <img src="https://img.icons8.com/windows/96/fa314a/console.png" width="30" />
@@ -64,7 +64,7 @@
 | :------------------------------------------------------------------------------------------------------: | :---------------------------: |
 |                      [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)                       |              Lua              |
 | [**🔗 Stack-Overflow-Label-Predictor**](https://github.com/Rishabh672003/stack-overflow-label-predictor) | Python, Tensorflow, Streamlit |
-|                 [**🔗 Py-Fix-Imports**](https://github.com/Rishabh672003/py-fix-imports)                 |            Python             |
+|                  [**🔗 PyFix-Imports**](https://github.com/Rishabh672003/pyfix-imports)                  |            Python             |
 |                  [**🔗 News Inspector**](https://github.com/BitBrigade/news-inspector)                   |   MERN Stack, Scikit-learn    |
 |              [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP)              |              C++              |
 
