@@ -64,7 +64,6 @@
 | :------------------------------------------------------------------------------------------------------: | :---------------------------: |
 |                      [**🔗 Launch.nvim**](https://github.com/LunarVim/Launch.nvim)                       |              Lua              |
 | [**🔗 Stack-Overflow-Label-Predictor**](https://github.com/Rishabh672003/stack-overflow-label-predictor) | Python, Tensorflow, Streamlit |
-|                  [**🔗 PyFix-Imports**](https://github.com/Rishabh672003/pyfix-imports)                  |            Python             |
 |                  [**🔗 News Inspector**](https://github.com/BitBrigade/news-inspector)                   |   MERN Stack, Scikit-learn    |
 |              [**🔗 Hash Table in CPP**](https://github.com/Rishabh672003/Hash-Table-in-CPP)              |              C++              |
 
@@ -72,6 +71,7 @@
 
 |                                   Project List                                   |       Languages/Libraries        |
 | :------------------------------------------------------------------------------: | :------------------------------: |
+|      [**🔗 PyFix-Imports**](https://github.com/Rishabh672003/pyfix-imports)      |              Python              |
 |  [**🔗 Programming Notes**](https://github.com/Rishabh672003/Programming-Notes)  | C++, DSA, JavaScript, TypeScript |
 | [**🔗 Learning ML**](https://github.com/Rishabh672003/Learning-machine-learning) |     Jupyter Notebook, Python     |
 
