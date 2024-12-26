@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Go and Machine Learning
 
-- 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
+- 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100
 <!-- prettier-ignore-end -->
 
 ---
