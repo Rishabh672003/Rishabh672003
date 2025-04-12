@@ -10,7 +10,7 @@
 <!-- prettier-ignore-start -->
 - 👀 I’m very much interested in Linux and free/libre software
 
-- 🌱 I’m currently learning Go and Machine Learning
+- 🌱 I’m currently learning Rust and Machine Learning
 
 - 📫 Reach me at matrix -@rj69420:matrix.org or on discord - Rishabh100 or on Twitter - @rishabh_9000
 <!-- prettier-ignore-end -->
