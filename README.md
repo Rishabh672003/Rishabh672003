@@ -29,7 +29,7 @@
     src="https://img.icons8.com/ios-filled/50/4a90e2/python.png"
     width="30"
   />
-  <img src="./assets/icons8-golang-48.png" width="33" />
+  <img src="./assets/icons8-rust-programming-language-48.png" width="33" />
   <img
     src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"
     width="30"
